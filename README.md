@@ -21,7 +21,7 @@ I used the listings and review files of Berlin provided by airbnb [here](http://
 I used these files in particular:
 
 listings:
-* [Listings available in November 2019](http://data.insideairbnb.com/germany/be/berlin/2019-11-12/data/listings.csv.gz) (Rename to "listings_Nov2019.csv")
+* <a href="http://data.insideairbnb.com/germany/be/berlin/2019-11-12/data/listings.csv.gz">Listings available in November 2019</a> (Rename to "listings_Nov2019.csv")
 * <a href="http://data.insideairbnb.com/germany/be/berlin/2020-11-10/data/listings.csv.gz">Listings available in November 2020</a> (Rename to "listings_Nov2020.csv")
 
 reviews
@@ -51,4 +51,4 @@ The main findings of the code can be found in the medium post available <a href=
 
 I have to give the credit to airbnb for the data and the preprocessing. You can find the Licensing for the data and other descriptive information [here](http://insideairbnb.com/get-the-data.html). 
 
-Thanks for reading the compelte README ;-)
+Thanks for reading the complete README ;-)
