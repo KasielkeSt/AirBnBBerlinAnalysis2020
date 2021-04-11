@@ -17,7 +17,7 @@ This repository is part of a project for my data scientist nanodegree from Udaci
 The analysis is written in a jupyter notebook 5.0.0 with Python version 3 using Anaconda. So with a recent Anaconda distribution of Python there should be no issues.
 
 ## Data <a name="data"></a>
-I used the listings and review files of Berlin provided by airbnb <a href="http://insideairbnb.com/get-the-data.html">here</a>
+I used the listings and review files of Berlin provided by airbnb [here](http://insideairbnb.com/get-the-data.html)
 I used these files in particular:
 
 listings:
